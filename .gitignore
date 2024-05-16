@@ -397,6 +397,5 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-# DATASETS
+# DATA
 Data/
-!Data/IMP_*
